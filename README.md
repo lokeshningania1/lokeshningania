@@ -26,8 +26,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer**, **problem sol
 ## 📊 GitHub Stats
 <div align="center">
   
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshningania&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshningania&layout=compact&theme=radical)
+![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshningania1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshningania1&layout=compact&theme=radical)
 
 </div>
 
